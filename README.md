@@ -101,15 +101,7 @@ GROQ_API_KEY=your_api_key_here
 Run the project:
 
 ```bash
-streamlit run app.py
-```
-
----
-
-## 📷 Screenshots
-
-(Add dashboard screenshots here)
-
+streamlit run app.
 ---
 
 ## 👩‍💻 Author
