@@ -1,3 +1,7 @@
+[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-success?style=for-the-badge)](https://aibusinessinsightsgenerator-lzbalsn34ouu52pexwvusf.streamlit.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/tanishkasaini55/AI_Business_Insights_Generator)
+
 # 📊 AI Business Insights Generator
 
 An AI-powered Business Intelligence Dashboard built with **Python, Streamlit, Plotly, Pandas, and Groq Llama 3.3**.
