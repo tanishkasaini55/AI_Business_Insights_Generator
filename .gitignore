@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE Files
+.idea/
+
+# Generated Reports
+Business_Report.pdf
+
+# OS Files
+.DS_Store
+Thumbs.db
